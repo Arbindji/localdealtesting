@@ -1,0 +1,19 @@
+{
+  "name": "localdeal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:run:dev": "cypress run --env env=dev",
+    "cypress:run:qa": "cypress run --env env=qa"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^13.16.1",
+    "cypress-xpath": "^2.0.1"
+  }
+}
