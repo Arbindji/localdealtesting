@@ -9,7 +9,7 @@ module.exports = defineConfig({
 env:
   {
     "url": "https://locoldeal.com/",
-  }
+    }
 
 
 });
